@@ -8,3 +8,7 @@ A webstie that offers fitness training services.
 *CSS
 
 ##Website
+https://silverfox357.github.io/Run-Buddy/
+
+##Contribution
+Made with ❤️ By Wyatt
