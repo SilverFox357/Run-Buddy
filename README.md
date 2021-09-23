@@ -12,3 +12,5 @@ https://silverfox357.github.io/Run-Buddy/
 
 ## Contribution
 Made with ❤️ By Wyatt
+
+### ©️2019 Run Buddy, Inc
