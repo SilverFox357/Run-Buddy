@@ -1,14 +1,14 @@
 # Run-Buddy
 
-##Purpose
+## Purpose
 A webstie that offers fitness training services.
 
-##Built with
+## Built with
 *HTML
 *CSS
 
-##Website
+## Website
 https://silverfox357.github.io/Run-Buddy/
 
-##Contribution
+## Contribution
 Made with ❤️ By Wyatt
